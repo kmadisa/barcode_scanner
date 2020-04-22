@@ -1,6 +1,6 @@
-# qr_scanner
+# barcode_scanner
 
-A new Flutter project.
+A new Flutter project from https://medium.com/flutter-community/working-with-barcodes-and-qr-codes-in-flutter-fbb3a2d4ede7.
 
 ## Getting Started
 
